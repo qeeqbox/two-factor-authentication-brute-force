@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/two-factor-authentication-brute-force-vulnerability/two-factor-authentication-brute-force-vulnerability.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/two-factor-authentication-brute-force-vulnerability/main/two-factor-authentication-brute-force-vulnerability.png"></p>
 
 An adversary may tamper with the two-factor authentication (2FA) logic causing unauthorized access to the target.
 
