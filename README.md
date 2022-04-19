@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/two-factor-authentication-brute-force-vulnerability/main/two-factor-authentication-brute-force-vulnerability.png"></p>
 
-An adversary may tamper with the two-factor authentication (2FA) logic causing unauthorized access to the target.
+An adversary may lunch brute force to the two-factor authentication (2FA) logic causing unauthorized access to the target.
 
 ## Example #1
 1. Adversary has a stolen username and password pair for a vulnerable website
