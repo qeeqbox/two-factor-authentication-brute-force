@@ -11,11 +11,11 @@ A threat actor may lunch brute force to the two-factor authentication (2FA) logi
 Vary
 
 ## Risk
-- gain unauthorized access
+- Gain unauthorized access
 
 ## Redemption
-- increase code length
-- limit pin code submissions
+- Increase code length
+- Limit pin code submissions
 
 ## ID
 58a84977-90e1-4156-a555-8568e83115d0
