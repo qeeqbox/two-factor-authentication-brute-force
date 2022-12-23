@@ -1,11 +1,11 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/two-factor-authentication-brute-force-vulnerability/main/two-factor-authentication-brute-force-vulnerability.png"></p>
 
-An adversary may lunch brute force to the two-factor authentication (2FA) logic causing unauthorized access to the target.
+A threat actor may lunch brute force to the two-factor authentication (2FA) logic causing unauthorized access to the target.
 
 ## Example #1
-1. Adversary has a stolen username and password pair for a vulnerable website
-2. Adversary logs in and prompted with a four digits pin code that was sent to the victims mobile
-3. Adversary lunches brute-force against and triggers the right pin code
+1. Threat actor has a stolen username and password pair for a vulnerable website
+2. Threat actor logs in and prompted with a four digits pin code that was sent to the victims mobile
+3. Threat actor lunches brute-force against and triggers the right pin code
 
 ## Impact
 Vary
